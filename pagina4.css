@@ -1,0 +1,17 @@
+.adjust-width{
+    width: 350px;
+}
+
+.card-side-input{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.card-side-input > div{
+    display: flex;
+    flex-direction: column;
+}
+.card-side-input .year-input{
+    width: 130px;
+}
